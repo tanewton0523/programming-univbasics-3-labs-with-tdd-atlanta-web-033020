@@ -1,2 +1,2 @@
-first_number = 1 
-first_number = get_variable_from_file('./calculator.rb', "first_number")
+first_number = 5
+second_number = 5
